@@ -15,7 +15,8 @@ class SumClass():
 			result = self.mySum(addend1, addend2)
 
 			self.showSum(addend1, addend2, result)
-
+			
+			
 	def mySum(self, add1, add2):
 		return int(add1) + int(add2)
 	
