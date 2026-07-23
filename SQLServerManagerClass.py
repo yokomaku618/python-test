@@ -4,7 +4,7 @@ import pyodbc
 class SQLServerManager:
     def __init__(self, config_path='config.json'):
         #with open(config_path, 'r') as f:
-        with open(r'C:\vbcode\python\config.json', 'r') as f:
+        with open(r'C:\vscode\python-test\config.json', 'r') as f:
             self.config = json.load(f)
         self.conn=None
         self.cursor=None
