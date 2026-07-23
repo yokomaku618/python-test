@@ -1,0 +1,7 @@
+{
+    "server":"localhost\\sqlexpress",
+    "database":"ShohinKanri",
+    "username":"sa",
+    "password":"sa",
+    "driver":"odbc driver 18 for SQL Server"
+}
